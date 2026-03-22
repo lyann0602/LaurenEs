@@ -702,4 +702,9 @@ footer {
   .carousel-arrow { display: none; }
 
   .slide-overlay { padding: 0 6%; }
+
+  #logo {
+    height: auto;
+    width: auto;
+  }
 }
